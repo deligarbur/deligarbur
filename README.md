@@ -17,16 +17,17 @@ I'm an Industrial Engineer ⚙️ , My desire to grow and feel more fulfilled pr
 - 🌱 I’m currently learning about TypeScript, Angular and MongoDB
 - 👯 I’m looking to contribute on Open Source projects with the community, for the community
 - 🌻 Working on personal projects.
-- ⚡ Fun fact: Jack of all trades , Master of None !
+- ⚡ Fun fact: I'm a huge fan of Anime & Manga 💮 !
+
 
 ### Languages </br>
-
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+
 
 ### Frameworks, Platforms and Libraries </br>
 ![NPM](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
@@ -43,14 +44,15 @@ I'm an Industrial Engineer ⚙️ , My desire to grow and feel more fulfilled pr
 ![Krita](https://img.shields.io/badge/-krita-000000?style=for-the-badge&logo=krita)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
-### Some of the technologies I have worked with-</br>
 
+### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Postman](http://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql)
+
 
 ### Some Stats About deligarbur 🌟 
 <p align="center" >
