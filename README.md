@@ -11,10 +11,9 @@
 
 <h1 align="Left">  Ahoy! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Delia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-I'm an Industrial Engineer ⚙️ , My desire to grow and feel more fulfilled professionally made me get into programming 💻
+I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled professionally made me get into programming 💻
 
-- 🔭 I’m currently more into the Programming 
-- 🌱 I’m currently learning about TypeScript, Angular and MongoDB
+- 🔭 I’m currently learning about TypeScript, Angular and MongoDB
 - 👯 I’m looking to contribute on Open Source projects with the community, for the community
 - 🌻 Working on personal projects.
 - ⚡ Fun fact: I'm a huge fan of Anime & Manga 💮 !
@@ -45,7 +44,7 @@ I'm an Industrial Engineer ⚙️ , My desire to grow and feel more fulfilled pr
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
 
-### Some of the technologies I have worked with-</br>
+### Some of the technologies I have worked with</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
