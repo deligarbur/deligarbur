@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://raw.githubusercontent.com/deligarbur/deligarbur/6c1378ee0b135087c49f2478f009537151150096/Developer-girl-1.jpg" width ="350px"></p>
+<p align="Center" ><img src="https://github.com/deligarbur/deligarbur/blob/main/girl-developer.JPG?raw=true" width ="350px"></p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/delia-garcia-burgos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
