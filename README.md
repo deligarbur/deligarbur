@@ -51,10 +51,3 @@ I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled prof
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Postman](http://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql)
-
-
-### Some Stats About deligarbur 🌟 
-<p align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deligarbur&show_icons=true&theme=dracula" />
-</p>
-
