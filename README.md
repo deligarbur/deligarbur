@@ -15,7 +15,7 @@ I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled prof
 
 - 🔭 I’m currently learning about TypeScript, Angular and MongoDB
 - 👯 I’m looking to contribute on Open Source projects with the community, for the community
-- 🌻 Working on personal projects.
+- 🌻 Working on personal projects
 - ⚡ Fun fact: I'm a huge fan of Anime & Manga 💮 !
 
 
