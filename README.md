@@ -20,17 +20,17 @@ I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled prof
 
 
 ### Languages </br>
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![Markdown](http://img.shields.io/badge/-Markdown-purple?style=for-the-badge&logo=Markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-teal?style=for-the-badge&logo=SQL&logoColor=white)
 
 
 ### Frameworks, Platforms and Libraries </br>
 ![NPM](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=Vite)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express)
@@ -38,9 +38,9 @@ I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled prof
 
 
 ### Design </br>
-![Canva](https://img.shields.io/badge/-canva-000000?style=for-the-badge&logo=canva)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-![Krita](https://img.shields.io/badge/-krita-000000?style=for-the-badge&logo=krita)
+![Canva](https://img.shields.io/badge/-canva-000000?style=for-the-badge&logo=canva&logoColor=blue)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=green)
+![Krita](https://img.shields.io/badge/-krita-000000?style=for-the-badge&logo=krita&logoColor=magenta)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
 
 
