@@ -8,10 +8,10 @@ I'm an Industrial Engineer ⚙️ transitioning into Software Development 💻
 
 Most of my pinned projects were developed during my Full-Stack Bootcamp, where I built applications from scratch individually or in small teams.
 
-– 🔎 Focusing on backend fundamentals and relational databases  
-– 🌱 Currently strengthening my foundations in C#  
-– 🚀 Building full-stack projects with JavaScript and Node.js  
-– 📫 Contact: deliagarciaburgos@gmail.com
+- 🔎 Focusing on backend fundamentals and relational databases  
+- 🌱 Currently strengthening my foundations in C#  
+- 🚀 Building full-stack projects with JavaScript and Node.js  
+- 📫 Contact: deliagarciaburgos@gmail.com
 
 
 
