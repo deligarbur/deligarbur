@@ -35,7 +35,7 @@ I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled prof
 ![Canva](https://img.shields.io/badge/-canva-000000?style=for-the-badge&logo=canva&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=green)
 ![Krita](https://img.shields.io/badge/-krita-000000?style=for-the-badge&logo=krita&logoColor=magenta)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=for-the-badge&logo=adobe%20photoshop)
+![Photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=photoshop)
 
 ### Some of the technologies I have worked with</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
