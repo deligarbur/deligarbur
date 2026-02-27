@@ -4,13 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/delia-garcia-burgos/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deliagarciaburgos@gmail.com)
 
-<p align="Left">I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled professionally made me get into programming 💻 </p>
-<p align="Left"> Most of the pinned projects were developed during my Full-Stack Bootcamp, where I built applications from scratch individually or in small teams.</p>
+I'm an Industrial Engineer ⚙️ transitioning into Software Development 💻  
 
-- 🔭 Focusing on backend fundamentals and relational databases
-- 🌻 Building full-stack projects with JavaScript and Node.js
-- 🌱 Currently strengthening my foundations in C#
-- 📫 How to reach me: deliagarciaburgos@gmail.com
+Most of my pinned projects were developed during my Full-Stack Bootcamp, where I built applications from scratch individually or in small teams.
+
+- 🔎 Focusing on backend fundamentals and relational databases  
+- 🌱 Currently strengthening my foundations in C#  
+- 🚀 Building full-stack projects with JavaScript and Node.js  
+- 📫 Contact: deliagarciaburgos@gmail.com
 
 
 
