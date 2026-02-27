@@ -1,12 +1,11 @@
-<p align="Center" ><img src="https://github.com/deligarbur/deligarbur/blob/main/what-is-a-full-stack-developer.png" width ="400px"></p>
-
 <h1 align="Left">  Hey! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Delia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/deligarbur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/delia-garcia-burgos/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deliagarciaburgos@gmail.com)
 
-I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled professionally made me get into programming 💻
+<p align="Left">I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled professionally made me get into programming 💻 </p>
+<p align="Left"> Most of the pinned projects were developed during my Full-Stack Bootcamp, where I built applications from scratch individually or in small teams.</p>
 
 - 🔭 Focusing on backend fundamentals and relational databases
 - 🌻 Building full-stack projects with JavaScript and Node.js
