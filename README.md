@@ -8,10 +8,9 @@
 
 I'm an Industrial Engineer ⚙️ My desire to grow and feel more fulfilled professionally made me get into programming 💻
 
-- 🔭 I’m currently learning about TypeScript, Angular and MongoDB
-- 👯 I’m looking to contribute on Open Source projects with the community, for the community
-- 🌻 Working on personal projects
-- ⚡ Fun fact: I'm a huge fan of Anime & Manga 💮 !
+- 🔭 Focusing on backend fundamentals and relational databases
+- 🌻 Building full-stack projects with JavaScript and Node.js
+- 🌱 Currently strengthening my foundations in C#
 - 📫 How to reach me: deliagarciaburgos@gmail.com
 
 
