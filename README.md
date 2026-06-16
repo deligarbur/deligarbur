@@ -24,7 +24,7 @@ Most of my pinned projects were developed during my Full-Stack Bootcamp, where I
 ![Markdown](http://img.shields.io/badge/-Markdown-9146FF?style=for-the-badge&logo=Markdown&logoColor=white)
 
 ### Frameworks, Platforms and Libraries </br>
-![NPM](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
+![PNPM](https://img.shields.io/badge/-pnpm-000000?style=for-the-badge&logo=pnpm)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=Vite)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
